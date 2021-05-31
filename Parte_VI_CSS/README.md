@@ -14,5 +14,3 @@
 - Prefijos específicos para navegadores.
 - Optimización de CSS.
 - Herramientas relacionadas con CSS.
-
-Curso desarrollado por [pekechis](http://github.com/pekechis) para [OpenWebinars](https://openwebinars.net/)

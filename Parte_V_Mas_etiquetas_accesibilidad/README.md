@@ -6,5 +6,3 @@
 - Etiquetas semánticas.
 - Otras etiquetas.
 - Accesibilidad en HTML.
-
-Curso desarrollado por [pekechis](http://github.com/pekechis) para [OpenWebinars](https://openwebinars.net/)

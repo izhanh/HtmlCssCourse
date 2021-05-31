@@ -10,5 +10,3 @@
 - Tablas.
 - El borde de las tablas.
 - Ejercicio práctico con tablas.
-
-Curso desarrollado por [pekechis](http://github.com/pekechis) para [OpenWebinars](https://openwebinars.net/)
