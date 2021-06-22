@@ -10,7 +10,7 @@
 
 <body>
 
-    <form method="POST" action="destinarion.html">
+    <form method="GET" action="">
 
         <p>
             <label for="nombre">Nombre:</label>
@@ -38,7 +38,7 @@
         </p>
 
         <p>
-            <button type="button" disabled><img width="100px" src="img/openwebinars-logo.jpg" /></button>
+            <button type="button" disabled><img width="100px" src="img/fieldset.png" /></button>
         </p>
 
         <fieldset>
@@ -48,8 +48,49 @@
                 <input type="text" name="nombre" placeholder="Inserta Nombre" required />
             </p>
             <p>
-                <label for="apellidos">Apellidos:</label>
-                <input type="text" name="apellidos" value="Pérez" readonly />
+                <label for="apellidos">Inversión:</label>
+                <input type="text" name="apellidos" value="10%"/>
+            </p>
+
+            <p>
+                <label for="balance">Balance:</label>
+                <input type="text" name="balance" value="100€" readonly>
+            </p>
+
+            <p>
+                <label for="provincia">Provincia</label>
+                <select name="provincia">
+                    <optgroup label="Aragon">
+                        <option value="Z">Zaragoza</option>
+                        <option>Huesca</option>
+                        <option selected>Teruel</option>
+                    </optgroup>
+
+                </select>
+            </p>
+
+            <p>
+                <input type="submit" value="Enviar" />
+            </p>
+
+        </fieldset>
+
+        <p></br></br></br></br></br></p>
+        
+        <fieldset>
+            <legend>Datos Personales</legend>
+            <p>
+                <label for="nombre">Nombre:</label>
+                <input type="text" name="nombre" placeholder="Inserta Nombre" required />
+            </p>
+            <p>
+                <label for="apellidos">Inversión:</label>
+                <input type="text" name="apellidos" value="10%"/>
+            </p>
+
+            <p>
+                <label for="balance">Balance:</label>
+                <input type="text" name="balance" value="100€" readonly>
             </p>
 
             <p>
